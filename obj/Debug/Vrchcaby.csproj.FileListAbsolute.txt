@@ -1,0 +1,11 @@
+c:\users\jakub\documents\visual studio 2013\Projects\Vrchcaby\Vrchcaby\bin\Debug\Vrchcaby.exe.config
+c:\users\jakub\documents\visual studio 2013\Projects\Vrchcaby\Vrchcaby\obj\Debug\Vrchcaby.csprojResolveAssemblyReference.cache
+c:\users\jakub\documents\visual studio 2013\Projects\Vrchcaby\Vrchcaby\obj\Debug\Vrchcaby.Properties.Resources.resources
+c:\users\jakub\documents\visual studio 2013\Projects\Vrchcaby\Vrchcaby\obj\Debug\Vrchcaby.UI.GameMenuForm.resources
+c:\users\jakub\documents\visual studio 2013\Projects\Vrchcaby\Vrchcaby\obj\Debug\Vrchcaby.GamePlanForm.resources
+c:\users\jakub\documents\visual studio 2013\Projects\Vrchcaby\Vrchcaby\obj\Debug\Vrchcaby.csproj.GenerateResource.Cache
+c:\users\jakub\documents\visual studio 2013\Projects\Vrchcaby\Vrchcaby\bin\Debug\Vrchcaby.exe
+c:\users\jakub\documents\visual studio 2013\Projects\Vrchcaby\Vrchcaby\bin\Debug\Vrchcaby.pdb
+c:\users\jakub\documents\visual studio 2013\Projects\Vrchcaby\Vrchcaby\obj\Debug\Vrchcaby.exe
+c:\users\jakub\documents\visual studio 2013\Projects\Vrchcaby\Vrchcaby\obj\Debug\Vrchcaby.pdb
+c:\users\jakub\documents\visual studio 2013\Projects\Vrchcaby\Vrchcaby\obj\Debug\Vrchcaby.UI.SelectCombinationForm.resources
